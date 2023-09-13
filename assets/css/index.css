@@ -54,6 +54,10 @@ ul.icons li a:before {
     font-weight: 400;
 }
 
+.uk-card-default .uk-card-title {
+    padding: 0 6px;
+}
+
 ul.icons li a:before {
     color: #ffffff;
     text-shadow: 1.25px 0px 0px lightgray, -1.25px 0px 0px lightgray, 0px 1.25px 0px lightgray, 0px -1.25px 0px lightgray;
