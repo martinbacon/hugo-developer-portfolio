@@ -87,6 +87,7 @@ a.text p{
     -ms-transform: rotate3d(0,0,0,0deg);
     transform: rotate3d(0,0,0,0deg);
     image-rendering: smooth;
+    object-fit: contain;
 }
 
 .hex h1, .hex p {
